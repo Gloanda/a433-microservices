@@ -1,0 +1,1 @@
+ghcr.io/gloanda/a433-microservices/item-app:v1
